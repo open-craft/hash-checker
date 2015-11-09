@@ -1,0 +1,14 @@
+[REPORTS]
+reports=no
+
+[FORMAT]
+max-line-length=100
+
+[MESSAGES CONTROL]
+disable=
+    I,
+    too-few-public-methods,
+    too-many-public-methods
+
+[VARIABLES]
+dummy-variables-rgx=_$|dummy|unused
